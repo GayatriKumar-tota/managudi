@@ -1,0 +1,2 @@
+client id: 529849094404-ehimhb1h26i1cgbmr6u7dlk33la9nq1h.apps.googleusercontent.com
+secret : wFU3cCo-i8fNc4UBQQjObvGv
