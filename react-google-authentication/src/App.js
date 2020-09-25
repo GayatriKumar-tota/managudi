@@ -17,7 +17,7 @@ function App() {
       <LogoutHooks />
       <br />
       If it does helped you feel free to star{' '}
-      <a href="https://github.com/Sivanesh-S/react-google-authentication">
+      <a href="https://github.com/GayatriKumar-tota/managudi/react-google-authentication">
         Github Repo
       </a>{' '}
       😉
