@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/managudi/static/css/main.5f0b32d2.chunk.css",
-    "main.js": "/managudi/static/js/main.606863e6.chunk.js",
-    "main.js.map": "/managudi/static/js/main.606863e6.chunk.js.map",
+    "main.js": "/managudi/static/js/main.15a283e7.chunk.js",
+    "main.js.map": "/managudi/static/js/main.15a283e7.chunk.js.map",
     "runtime-main.js": "/managudi/static/js/runtime-main.91684f25.js",
     "runtime-main.js.map": "/managudi/static/js/runtime-main.91684f25.js.map",
     "static/js/2.5b02833e.chunk.js": "/managudi/static/js/2.5b02833e.chunk.js",
     "static/js/2.5b02833e.chunk.js.map": "/managudi/static/js/2.5b02833e.chunk.js.map",
     "index.html": "/managudi/index.html",
-    "precache-manifest.3a6ad313e139126902c4eb6fbae02f8c.js": "/managudi/precache-manifest.3a6ad313e139126902c4eb6fbae02f8c.js",
+    "precache-manifest.36ad3288a1588f2422854f00d09f2e1f.js": "/managudi/precache-manifest.36ad3288a1588f2422854f00d09f2e1f.js",
     "service-worker.js": "/managudi/service-worker.js",
     "static/css/main.5f0b32d2.chunk.css.map": "/managudi/static/css/main.5f0b32d2.chunk.css.map",
     "static/js/2.5b02833e.chunk.js.LICENSE.txt": "/managudi/static/js/2.5b02833e.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.91684f25.js",
     "static/js/2.5b02833e.chunk.js",
     "static/css/main.5f0b32d2.chunk.css",
-    "static/js/main.606863e6.chunk.js"
+    "static/js/main.15a283e7.chunk.js"
   ]
 }
