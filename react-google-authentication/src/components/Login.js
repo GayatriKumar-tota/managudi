@@ -5,7 +5,7 @@ import { GoogleLogin } from 'react-google-login';
 import { refreshTokenSetup } from '../utils/refreshToken';
 
 const clientId =
-  '707788443358-u05p46nssla3l8tmn58tpo9r5sommgks.apps.googleusercontent.com';
+  '529849094404-ehimhb1h26i1cgbmr6u7dlk33la9nq1h.apps.googleusercontent.com';
 
 function Login() {
   const onSuccess = (res) => {
