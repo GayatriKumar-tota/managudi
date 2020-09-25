@@ -15,12 +15,6 @@ function App() {
       <h2>The Hooks way</h2>
       <LoginHooks />
       <LogoutHooks />
-      <br />
-      If it does helped you feel free to star{' '}
-      <a href="https://github.com/GayatriKumar-tota/managudi/react-google-authentication">
-        Github Repo
-      </a>{' '}
-      😉
     </div>
   );
 }
